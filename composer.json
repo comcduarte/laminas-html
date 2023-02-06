@@ -1,0 +1,17 @@
+{
+	"name" : "comcduarte/laminas-html",
+	"description" : "Object-Oriented Implementation of HTML",
+	"license" : "BSD-3-Clause",
+	"support" : {
+		"issues" : "https://github.com/comcduarte/laminas-html/issues"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"Laminas\\Html\\" : "src"
+		}
+	},
+	"keywords" : [
+		"laminas",
+		"html"
+	]
+}
